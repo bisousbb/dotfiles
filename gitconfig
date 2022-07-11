@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = julesdefrancq@hotmail.fr
+	name = Jules Defrancq
